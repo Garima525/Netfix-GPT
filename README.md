@@ -14,6 +14,10 @@
     - Created Redux store with userSlice
     - Implemented Sign Out
     - Update Profile
+    - Bugfix: Fixed the userprofile update bug
+    - Bugfix: if the user is not logged in redirect /browse to login page and vice-versa 
+    - Unsubscribe to the onAuthStateChanged callback
+    - 
 
 # Feaures
 - Login/Sign Up
